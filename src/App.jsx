@@ -12,13 +12,15 @@ function App() {
     <Router basename="/medifare">
       <div className="app">
         <Header />
+        <main>
         <Routes>
           <Route path="/" element={<Search />} />
           <Route path="/about" element={<About />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
         </Routes>
-        <Footer />  {/* ⬅ Add this */}
+        </main>
+        <Footer /> 
       </div>
     </Router>
   );

@@ -11,8 +11,8 @@ function Footer() {
         <div className="footer-section">
           <h4>Quick Links</h4>
           <ul>
-          <Link to="/">Home</Link>
-            <Link to="/about">About Us</Link>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/about">About Us</Link></li>
             <li><a href="/signup">Sign Up</a></li>
           </ul>
         </div>
@@ -20,8 +20,8 @@ function Footer() {
         <div className="footer-section">
           <h4>Legal</h4>
           <ul>
-          <Link to="/privacy">Privacy Policy</Link>
-          <Link to="/terms">Terms of Service</Link>
+            <li><Link to="/privacy">Privacy Policy</Link></li>
+            <li><Link to="/terms">Terms of Service</Link></li>
           </ul>
         </div>
   
