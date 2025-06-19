@@ -1,0 +1,112 @@
+{
+  "Hospitals": [
+    {
+      "id": "1",
+      "Hospital_Name": "Mather Hospital",
+      "Phone": "631-473-1320",
+      "Email": "matherhospital@northwell.edu",
+      "Address": "75 North Country Road, Port Jefferson, NY 11777",
+      "latitude": 40.93864,
+      "longitude": -73.05426
+    },
+    {
+      "id": "2",
+      "Hospital_Name": "Lenox Hill Hospital",
+      "Phone": "212-434-2000",
+      "Email": "",
+      "Address": "100 E 77th St.New York,NY 10075",
+      "latitude": 40.77113,
+      "longitude": -73.9539
+    },
+    {
+      "id": "3",
+      "Hospital_Name": "Mount Sinai West",
+      "Phone": "212-523-4000",
+      "Email": "mswpatientrelations@mountsinai.org",
+      "Address": "1000 Tenth Avenue, New York, NY 10019",
+      "latitude": 40.7700065,
+      "longitude": -73.9896501
+    },
+    {
+      "id": "4",
+      "Hospital_Name": "Mount Sinai Beth Israel",
+      "Phone": "212-420-2000",
+      "Email": "msbipatientrep@mountsinai.org",
+      "Address": "281 1st Ave., New York, NY 10003",
+      "latitude": 40.7700065,
+      "longitude": -73.9896501
+    },
+    {
+      "id": "5",
+      "Hospital_Name": "NYC Health + Hospitals",
+      "Phone": "1-844-NYC-4NYC",
+      "Email": "PressOffice@nychhc.org",
+      "Address": "506 Lenox Ave, New York, NY 10037",
+      "latitude": 40.81453,
+      "longitude": -73.9399
+    },
+    {
+      "id": "6",
+      "Hospital_Name": "NY Presbyterian Columbia",
+      "Phone": "212-305-2500",
+      "Email": "",
+      "Address": "630 W 168th St, New York, NY 10032",
+      "latitude": 40.84221,
+      "longitude": -73.94325
+    },
+    {
+      "id": "7",
+      "Hospital_Name": "Jersey City Medical Center",
+      "Phone": "+1 201-915-2000",
+      "Email": "",
+      "Address": "355 Grand Street Jersey City, NJ 07302",
+      "latitude": 40.716099,
+      "longitude": -74.050041
+    },
+    {
+      "id": "8",
+      "Hospital_Name": "NYC Health + Hospitals",
+      "Phone": "1-844-NYC-4NYC",
+      "Email": "PressOffice@nychhc.org",
+      "Address": "462 1st Ave., New York, NY 10016",
+      "latitude": 40.73913,
+      "longitude": -73.97552
+    },
+    {
+      "id": "9",
+      "Hospital_Name": "NYU Langone Tisch Hospital",
+      "Phone": "212-263-5800",
+      "Email": "news@nyulangone.org",
+      "Address": "550 1st Ave., New York, NY 10016",
+      "latitude": 40.74203,
+      "longitude": -73.97435
+    },
+    {
+      "id": "10",
+      "Hospital_Name": "NY Presbyterian Weill Cornell",
+      "Phone": "212-746-5454",
+      "Email": "",
+      "Address": "505 E 70th St, New York, NY 10021",
+      "latitude": 40.76569,
+      "longitude": -73.95413
+    },
+    {
+      "id": "11",
+      "Hospital_Name": "Mount Sinai Morningside",
+      "Phone": "212-523-4000",
+      "Email": "MSMPatientRelations@mountsinai.org",
+      "Address": "1111 Amsterdam Avenue New York, NY 10025",
+      "latitude": 40.80553,
+      "longitude": -73.96123
+    },
+    {
+      "id": "12",
+      "Hospital_Name": "The Mount Sinai Hospital",
+      "Phone": "212-241-6500",
+      "Email": "MSHPatientRelations@mountsinai.org",
+      "Address": "1 Gustave L. Levy Place, New York, NY 10029",
+      "latitude": 40.79045,
+      "longitude": -73.9529
+    }
+  ]
+}

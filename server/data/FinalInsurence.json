@@ -1,0 +1,503 @@
+{
+  "Insurence_plans": [
+    {
+      "name": "Aetna  Health",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "ameri FamilyCare",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Cigna Commercial HMO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Cigna Commercial PPO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "United Commercial HMO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "United Commercial PPO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "United Oxford Health Plan",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "United Community & State",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Horizon Commercial HMO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Horizon Commercial PPO",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "amerihealth  Commercial Local Value",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "amerihealth  Commercial Regional Preferred",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Horizon  NJ Health",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+    {
+      "name": "Wellcare  NJ FamilyCare",
+      "Hospital_name": "Jersey City Medical Center"
+    },
+
+    {
+      "name": "AETNA HMO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "AETNA INDEMNITY",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS GHI COMPOSITE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS HMO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS INDEMNITY",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS BLUE ACCESS GEPO LARGE GROUP",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS BLUE ACCESS GEPO SMALL GROUP",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "CIGNA PPO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "OXFORD HEALTH PLANS FREEDOM",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "UNITED HEALTHCARE HMO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "GHI HMO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "HIP HMO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "EMBLEM SELECT CARE BRONZE EXCHANGE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "EMBLEM ESSENTIAL PLAN 1",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "FIDELIS ESSENTIAL PLAN 1",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "FIDELIS CARE PLATINUM EXCHANGE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "FIDELIS CARE CHILD HEALTH PLUS",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "FIDELIS CARE MEDICARE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS ESSENTIAL PLAN 1",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS MEDPLUS PLAN EXCHANGE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS MCD MANAGED CARE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS CHILD HEALTH PLUS",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS MEDICARE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "METROPLUS GOLDCARE 2",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "MAGNACARE PPO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "JOINT INDUSTRY BOARD OF ELECTRICAL IND",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "LOCAL 1199 NYU MEMBER CHOICE",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "MULTIPLAN PPO",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "CHAMPUS UNYSIS CORP",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "ELDERPLAN",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "HIP VIP MEDICARE PRIME",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "GHI MEDICARE SUPPLEMENT",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "HEALTHFIRST ABSOLUTE CARE FIDA",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "BCBS HEALTHPLUS ESSENTIAL PLAN 1",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "De-identified Minimum",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+    {
+      "name": "De-identified Minimum",
+      "Hospital_name": "NYU Langone Tisch Hospital"
+    },
+
+    {
+      "name": "Empire Blue Cross Blue Shield",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Emblem Health",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "United Health Group",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Aetna Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Agewell Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Empire Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Fidelis Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Emblem Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Healthfirst Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Uhc Community Plan United Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Vns Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Wellcare Medicare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Affinity Molina Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Affinity Molina Essential",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Amida Care Medicaid",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Empire Healthplus Medicaid",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Empire Healthplus Essential",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Empire Healthplus Exchange",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Fidelis Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Fidelis Essential Exchange",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Healthfirst Essential Exchange",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Healthfirst Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Emblem Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Mvp Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Mvp Essential",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "United Commuity Plan Medicaid Chp",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "United Commuity Plan Essential",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Vns Medicaid",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Consumer Health Network",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Cmn Global",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Devon",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Equian",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "First Health",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Magnacare",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Multiplan Beechstreet Phcs",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Qhm",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+    {
+      "name": "Worldwide",
+      "Hospital_name": "NYP Columbia Cornell"
+    },
+
+    {
+      "name": "Empire Blue Cross Blue Shield",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Emblem Health",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "United Health Group",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Aetna Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Agewell Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Empire Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Fidelis Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Emblem Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Healthfirst Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Uhc Community Plan United Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Vns Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Wellcare Medicare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Affinity Molina Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Affinity Molina Essential",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Amida Care Medicaid",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Empire Healthplus Medicaid",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Empire Healthplus Essential",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Empire Healthplus Exchange",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Fidelis Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Fidelis Essential Exchange",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Healthfirst Essential Exchange",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Healthfirst Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Emblem Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Mvp Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Mvp Essential",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "United Commuity Plan Medicaid Chp",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "United Commuity Plan Essential",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Vns Medicaid",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Consumer Health Network",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Cmn Global",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Devon",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Equian",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "First Health",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Magnacare",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Multiplan Beechstreet Phcs",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Qhm",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    },
+    {
+      "name": "Worldwide",
+      "Hospital_name": "NY Presbyterian Weill Cornell"
+    }
+  ]
+}

@@ -1,0 +1,4090 @@
+{
+  "Mount_Sinai_Morningside": [
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 3,
+      "Description": "ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W MAJ OR",
+      "Chash Pay": 959519.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 4,
+      "Description": "TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.",
+      "Chash Pay": 1017710.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 11,
+      "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DX OR LARYNGECTOMY W MCC",
+      "Chash Pay": 334399.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 12,
+      "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DX OR LARYNGECTOMY W CC",
+      "Chash Pay": 265920.02
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 13,
+      "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DX OR LARYNGECTOMY W/O CC/MCC",
+      "Chash Pay": 127677.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 20,
+      "Description": "INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC",
+      "Chash Pay": 430876.42
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 21,
+      "Description": "INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC",
+      "Chash Pay": 294550.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 23,
+      "Description": "CRANIO W MAJ DEV IMPL/ACUTE COMPLEX CNS PDX W MCC OR CHEMO IMPLNT",
+      "Chash Pay": 264902.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 24,
+      "Description": "CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC",
+      "Chash Pay": 219515.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 25,
+      "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC",
+      "Chash Pay": 211338.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 26,
+      "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC",
+      "Chash Pay": 134752.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 27,
+      "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 115284.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 28,
+      "Description": "SPINAL PROCEDURES W MCC",
+      "Chash Pay": 187994.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 29,
+      "Description": "SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS",
+      "Chash Pay": 115465.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 30,
+      "Description": "SPINAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 129174.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 31,
+      "Description": "VENTRICULAR SHUNT PROCEDURES W MCC",
+      "Chash Pay": 222372.58
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 32,
+      "Description": "VENTRICULAR SHUNT PROCEDURES W CC",
+      "Chash Pay": 177895.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 33,
+      "Description": "VENTRICULAR SHUNT PROCEDURES W/O CC/MCC",
+      "Chash Pay": 76518.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 34,
+      "Description": "CAROTID ARTERY STENT PROCEDURE W MCC",
+      "Chash Pay": 231705.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 35,
+      "Description": "CAROTID ARTERY STENT PROCEDURE W CC",
+      "Chash Pay": 70485.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 36,
+      "Description": "CAROTID ARTERY STENT PROCEDURE W/O CC/MCC",
+      "Chash Pay": 71448.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 37,
+      "Description": "EXTRACRANIAL PROCEDURES W MCC",
+      "Chash Pay": 259396.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 38,
+      "Description": "EXTRACRANIAL PROCEDURES W CC",
+      "Chash Pay": 61217.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 39,
+      "Description": "EXTRACRANIAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 75777.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 40,
+      "Description": "PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC",
+      "Chash Pay": 210893.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 41,
+      "Description": "PERIPH/CRANIAL NERV & OTH NERV SYST PROC W CC OR PERIPH NEUROSTIM",
+      "Chash Pay": 115825.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 42,
+      "Description": "PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC",
+      "Chash Pay": 79043.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 52,
+      "Description": "SPINAL DISORDERS & INJURIES W CC/MCC",
+      "Chash Pay": 84850.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 53,
+      "Description": "SPINAL DISORDERS & INJURIES W/O CC/MCC",
+      "Chash Pay": 63420.76
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 54,
+      "Description": "NERVOUS SYSTEM NEOPLASMS W MCC",
+      "Chash Pay": 101852.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 55,
+      "Description": "NERVOUS SYSTEM NEOPLASMS W/O MCC",
+      "Chash Pay": 77861.76
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 56,
+      "Description": "DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC",
+      "Chash Pay": 133769.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 57,
+      "Description": "DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC",
+      "Chash Pay": 101850.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 58,
+      "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC",
+      "Chash Pay": 140002.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 59,
+      "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC",
+      "Chash Pay": 76715.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 60,
+      "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC",
+      "Chash Pay": 77248.42
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 61,
+      "Description": "ISCHEMIC STROKE/PRECERB OCCL/TIA W USE OF THROMBOLYTIC AGNT W MCC",
+      "Chash Pay": 231958.32
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 62,
+      "Description": "ISCHEMIC STROKE/PRECERB OCCL/TIA W USE OF THROMBOLYTIC AGNT W CC",
+      "Chash Pay": 139726.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 63,
+      "Description": "ISCHEMIC STROKE/PRECERB OCCL/TIA W USE OF THRMBOL AGNT W/O CC/MCC",
+      "Chash Pay": 150987.37
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 64,
+      "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC",
+      "Chash Pay": 130496.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 65,
+      "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCT W CC OR TPA IN 24 HRS",
+      "Chash Pay": 78735.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 66,
+      "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC",
+      "Chash Pay": 60850.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 68,
+      "Description": "NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC",
+      "Chash Pay": 36920.91
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 69,
+      "Description": "TRANSIENT ISCHEMIA W/O THROMBOLYTIC",
+      "Chash Pay": 60038.89
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 70,
+      "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC",
+      "Chash Pay": 107274.77
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 71,
+      "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W CC",
+      "Chash Pay": 60607.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 72,
+      "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC",
+      "Chash Pay": 45635.57
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 73,
+      "Description": "CRANIAL & PERIPHERAL NERVE DISORDERS W MCC",
+      "Chash Pay": 65534.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 74,
+      "Description": "CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC",
+      "Chash Pay": 55788.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 75,
+      "Description": "VIRAL MENINGITIS W CC/MCC",
+      "Chash Pay": 89171.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 76,
+      "Description": "VIRAL MENINGITIS W/O CC/MCC",
+      "Chash Pay": 25417.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 77,
+      "Description": "HYPERTENSIVE ENCEPHALOPATHY W MCC",
+      "Chash Pay": 189451.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 78,
+      "Description": "HYPERTENSIVE ENCEPHALOPATHY W CC",
+      "Chash Pay": 68715.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 79,
+      "Description": "HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC",
+      "Chash Pay": 87243.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 82,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W MCC",
+      "Chash Pay": 102511.83
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 83,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W CC",
+      "Chash Pay": 66941.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 84,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W/O CC/MCC",
+      "Chash Pay": 46787.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 85,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W MCC",
+      "Chash Pay": 127602.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 86,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W CC",
+      "Chash Pay": 74526.79
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 87,
+      "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W/O CC/MCC",
+      "Chash Pay": 37246.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 88,
+      "Description": "CONCUSSION W MCC",
+      "Chash Pay": 52144.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 89,
+      "Description": "CONCUSSION W CC",
+      "Chash Pay": 40120.05
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 90,
+      "Description": "CONCUSSION W/O CC/MCC",
+      "Chash Pay": 34935.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 91,
+      "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W MCC",
+      "Chash Pay": 93451.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 92,
+      "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W CC",
+      "Chash Pay": 72625.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 93,
+      "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC",
+      "Chash Pay": 55518.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 94,
+      "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC",
+      "Chash Pay": 190847.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 95,
+      "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC",
+      "Chash Pay": 104312.55
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 96,
+      "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC",
+      "Chash Pay": 91274.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 97,
+      "Description": "NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC",
+      "Chash Pay": 110062.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 98,
+      "Description": "NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC",
+      "Chash Pay": 77135.95
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 99,
+      "Description": "NON-BACTERIAL INFECT OF NERV SYS EXC VIRAL MENINGITIS W/O CC/MCC",
+      "Chash Pay": 64641.23
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 100,
+      "Description": "SEIZURES W MCC",
+      "Chash Pay": 91534.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 101,
+      "Description": "SEIZURES W/O MCC",
+      "Chash Pay": 40685.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 102,
+      "Description": "HEADACHES W MCC",
+      "Chash Pay": 54991.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 103,
+      "Description": "HEADACHES W/O MCC",
+      "Chash Pay": 41656.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 113,
+      "Description": "ORBITAL PROCEDURES W CC/MCC",
+      "Chash Pay": 39927.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 114,
+      "Description": "ORBITAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 46467.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 115,
+      "Description": "EXTRAOCULAR PROCEDURES EXCEPT ORBIT",
+      "Chash Pay": 42505.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 121,
+      "Description": "ACUTE MAJOR EYE INFECTIONS W CC/MCC",
+      "Chash Pay": 50676.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 122,
+      "Description": "ACUTE MAJOR EYE INFECTIONS W/O CC/MCC",
+      "Chash Pay": 47173.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 123,
+      "Description": "NEUROLOGICAL EYE DISORDERS",
+      "Chash Pay": 54258.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 124,
+      "Description": "OTHER DISORDERS OF THE EYE W MCC",
+      "Chash Pay": 66955.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 125,
+      "Description": "OTHER DISORDERS OF THE EYE W/O MCC",
+      "Chash Pay": 50573.28
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 129,
+      "Description": "MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE",
+      "Chash Pay": 130823.97
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 130,
+      "Description": "MAJOR HEAD & NECK PROCEDURES W/O CC/MCC",
+      "Chash Pay": 90299.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 131,
+      "Description": "CRANIAL/FACIAL PROCEDURES W CC/MCC",
+      "Chash Pay": 118522.18
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 132,
+      "Description": "CRANIAL/FACIAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 76867.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 133,
+      "Description": "OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W CC/MCC",
+      "Chash Pay": 86621.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 134,
+      "Description": "OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC",
+      "Chash Pay": 75856.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 135,
+      "Description": "SINUS & MASTOID PROCEDURES W CC/MCC",
+      "Chash Pay": 103507.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 137,
+      "Description": "MOUTH PROCEDURES W CC/MCC",
+      "Chash Pay": 23531.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 138,
+      "Description": "MOUTH PROCEDURES W/O CC/MCC",
+      "Chash Pay": 43918.49
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 139,
+      "Description": "SALIVARY GLAND PROCEDURES",
+      "Chash Pay": 41536.44
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 146,
+      "Description": "EAR, NOSE, MOUTH & THROAT MALIGNANCY W MCC",
+      "Chash Pay": 69247.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 147,
+      "Description": "EAR, NOSE, MOUTH & THROAT MALIGNANCY W CC",
+      "Chash Pay": 10990.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 149,
+      "Description": "DYSEQUILIBRIUM",
+      "Chash Pay": 52760.93
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 150,
+      "Description": "EPISTAXIS W MCC",
+      "Chash Pay": 34416.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 151,
+      "Description": "EPISTAXIS W/O MCC",
+      "Chash Pay": 40216.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 152,
+      "Description": "OTITIS MEDIA & URI W MCC",
+      "Chash Pay": 46761.32
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 153,
+      "Description": "OTITIS MEDIA & URI W/O MCC",
+      "Chash Pay": 39936.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 154,
+      "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W MCC",
+      "Chash Pay": 81752.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 155,
+      "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W CC",
+      "Chash Pay": 55498.76
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 156,
+      "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 28143.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 157,
+      "Description": "DENTAL & ORAL DISEASES W MCC",
+      "Chash Pay": 61428.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 158,
+      "Description": "DENTAL & ORAL DISEASES W CC",
+      "Chash Pay": 51734.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 159,
+      "Description": "DENTAL & ORAL DISEASES W/O CC/MCC",
+      "Chash Pay": 27716.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 163,
+      "Description": "MAJOR CHEST PROCEDURES W MCC",
+      "Chash Pay": 114875.32
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 164,
+      "Description": "MAJOR CHEST PROCEDURES W CC",
+      "Chash Pay": 89426.49
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 165,
+      "Description": "MAJOR CHEST PROCEDURES W/O CC/MCC",
+      "Chash Pay": 63026.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 166,
+      "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W MCC",
+      "Chash Pay": 174102.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 167,
+      "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W CC",
+      "Chash Pay": 49729.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 168,
+      "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC",
+      "Chash Pay": 49647.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 175,
+      "Description": "PULMONARY EMBOLISM W MCC",
+      "Chash Pay": 85115.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 176,
+      "Description": "PULMONARY EMBOLISM W/O MCC",
+      "Chash Pay": 47278.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 177,
+      "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC",
+      "Chash Pay": 94148.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 178,
+      "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W CC",
+      "Chash Pay": 48399.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 179,
+      "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC",
+      "Chash Pay": 93766.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 180,
+      "Description": "RESPIRATORY NEOPLASMS W MCC",
+      "Chash Pay": 95945.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 181,
+      "Description": "RESPIRATORY NEOPLASMS W CC",
+      "Chash Pay": 48483.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 183,
+      "Description": "MAJOR CHEST TRAUMA W MCC",
+      "Chash Pay": 45892.14
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 184,
+      "Description": "MAJOR CHEST TRAUMA W CC",
+      "Chash Pay": 51384.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 185,
+      "Description": "MAJOR CHEST TRAUMA W/O CC/MCC",
+      "Chash Pay": 43948.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 186,
+      "Description": "PLEURAL EFFUSION W MCC",
+      "Chash Pay": 66828.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 187,
+      "Description": "PLEURAL EFFUSION W CC",
+      "Chash Pay": 44467.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 188,
+      "Description": "PLEURAL EFFUSION W/O CC/MCC",
+      "Chash Pay": 49837.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 189,
+      "Description": "PULMONARY EDEMA & RESPIRATORY FAILURE",
+      "Chash Pay": 59059.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 190,
+      "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC",
+      "Chash Pay": 59880.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 191,
+      "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC",
+      "Chash Pay": 47652.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 192,
+      "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC",
+      "Chash Pay": 41176.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 193,
+      "Description": "SIMPLE PNEUMONIA & PLEURISY W MCC",
+      "Chash Pay": 63038.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 194,
+      "Description": "SIMPLE PNEUMONIA & PLEURISY W CC",
+      "Chash Pay": 46441.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 195,
+      "Description": "SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC",
+      "Chash Pay": 37096.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 196,
+      "Description": "INTERSTITIAL LUNG DISEASE W MCC",
+      "Chash Pay": 114735.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 197,
+      "Description": "INTERSTITIAL LUNG DISEASE W CC",
+      "Chash Pay": 59200.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 198,
+      "Description": "INTERSTITIAL LUNG DISEASE W/O CC/MCC",
+      "Chash Pay": 30016.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 199,
+      "Description": "PNEUMOTHORAX W MCC",
+      "Chash Pay": 66978.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 200,
+      "Description": "PNEUMOTHORAX W CC",
+      "Chash Pay": 46577.72
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 201,
+      "Description": "PNEUMOTHORAX W/O CC/MCC",
+      "Chash Pay": 23117.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 202,
+      "Description": "BRONCHITIS & ASTHMA W CC/MCC",
+      "Chash Pay": 47886.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 203,
+      "Description": "BRONCHITIS & ASTHMA W/O CC/MCC",
+      "Chash Pay": 40534.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 204,
+      "Description": "RESPIRATORY SIGNS & SYMPTOMS",
+      "Chash Pay": 38640.44
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 205,
+      "Description": "OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC",
+      "Chash Pay": 88433.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 206,
+      "Description": "OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC",
+      "Chash Pay": 75721.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 207,
+      "Description": "RESPIRATORY SYSTEM DX W VENT SUPPORT >96 HOURS OR PERIPHERAL ECMO",
+      "Chash Pay": 233013.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 208,
+      "Description": "RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS",
+      "Chash Pay": 123571.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 215,
+      "Description": "OTHER HEART ASSIST SYSTEM IMPLANT",
+      "Chash Pay": 273957.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 216,
+      "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC",
+      "Chash Pay": 449299.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 217,
+      "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC",
+      "Chash Pay": 225094.28
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 219,
+      "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC",
+      "Chash Pay": 301233.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 220,
+      "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC",
+      "Chash Pay": 175443.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 221,
+      "Description": "CARDIAC VALV & OTH MAJ CARDIOTHORAC PROC W/O CARD CATH W/O CC/MCC",
+      "Chash Pay": 145575.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 222,
+      "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC",
+      "Chash Pay": 332106.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 224,
+      "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC",
+      "Chash Pay": 272502.91
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 225,
+      "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC",
+      "Chash Pay": 229337.97
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 226,
+      "Description": "CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC",
+      "Chash Pay": 220974.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 227,
+      "Description": "CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC",
+      "Chash Pay": 180519.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 228,
+      "Description": "OTHER CARDIOTHORACIC PROCEDURES W MCC",
+      "Chash Pay": 235183.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 229,
+      "Description": "OTHER CARDIOTHORACIC PROCEDURES W/O MCC",
+      "Chash Pay": 164142.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 231,
+      "Description": "CORONARY BYPASS W PTCA W MCC",
+      "Chash Pay": 248281.38
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 233,
+      "Description": "CORONARY BYPASS W CARDIAC CATH W MCC",
+      "Chash Pay": 301446.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 234,
+      "Description": "CORONARY BYPASS W CARDIAC CATH W/O MCC",
+      "Chash Pay": 207158.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 235,
+      "Description": "CORONARY BYPASS W/O CARDIAC CATH W MCC",
+      "Chash Pay": 224650.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 236,
+      "Description": "CORONARY BYPASS W/O CARDIAC CATH W/O MCC",
+      "Chash Pay": 177180.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 239,
+      "Description": "AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC",
+      "Chash Pay": 237654.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 240,
+      "Description": "AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC",
+      "Chash Pay": 164402.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 241,
+      "Description": "AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W/O CC/MCC",
+      "Chash Pay": 62993.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 242,
+      "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W MCC",
+      "Chash Pay": 168727.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 243,
+      "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W CC",
+      "Chash Pay": 101114.72
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 244,
+      "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC",
+      "Chash Pay": 77800.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 245,
+      "Description": "AICD GENERATOR PROCEDURES",
+      "Chash Pay": 220390.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 246,
+      "Description": "PERC CARDIO PROC W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES/STENTS",
+      "Chash Pay": 139370.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 247,
+      "Description": "PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC",
+      "Chash Pay": 91274.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 248,
+      "Description": "PERC CARDIO PROC W NON-DRUG-ELUTING STENT W MCC OR 4+ ARTRS/STNTS",
+      "Chash Pay": 142222.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 249,
+      "Description": "PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC",
+      "Chash Pay": 61344.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 250,
+      "Description": "PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC",
+      "Chash Pay": 142501.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 251,
+      "Description": "PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC",
+      "Chash Pay": 80569.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 252,
+      "Description": "OTHER VASCULAR PROCEDURES W MCC",
+      "Chash Pay": 140975.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 253,
+      "Description": "OTHER VASCULAR PROCEDURES W CC",
+      "Chash Pay": 104087.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 254,
+      "Description": "OTHER VASCULAR PROCEDURES W/O CC/MCC",
+      "Chash Pay": 78647.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 255,
+      "Description": "UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC",
+      "Chash Pay": 129761.58
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 256,
+      "Description": "UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC",
+      "Chash Pay": 85821.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 257,
+      "Description": "UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W/O CC/MCC",
+      "Chash Pay": 46822.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 259,
+      "Description": "CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC",
+      "Chash Pay": 207296.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 260,
+      "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC",
+      "Chash Pay": 213444.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 261,
+      "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC",
+      "Chash Pay": 85831.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 262,
+      "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC",
+      "Chash Pay": 70098.37
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 264,
+      "Description": "OTHER CIRCULATORY SYSTEM O.R. PROCEDURES",
+      "Chash Pay": 162010.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 265,
+      "Description": "AICD LEAD PROCEDURES",
+      "Chash Pay": 119667.82
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 266,
+      "Description": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC",
+      "Chash Pay": 217795.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 267,
+      "Description": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC",
+      "Chash Pay": 218476.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 268,
+      "Description": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC",
+      "Chash Pay": 314610.19
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 269,
+      "Description": "AORTIC & HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC",
+      "Chash Pay": 152209.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 270,
+      "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC",
+      "Chash Pay": 212643.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 271,
+      "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC",
+      "Chash Pay": 134118.02
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 272,
+      "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC",
+      "Chash Pay": 95773.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 273,
+      "Description": "PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC",
+      "Chash Pay": 211023.81
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 274,
+      "Description": "PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC",
+      "Chash Pay": 121097.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 280,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W MCC",
+      "Chash Pay": 109355
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 281,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W CC",
+      "Chash Pay": 70872.55
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 282,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W/O CC/MCC",
+      "Chash Pay": 40809.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 283,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, EXPIRED W MCC",
+      "Chash Pay": 104867.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 284,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, EXPIRED W CC",
+      "Chash Pay": 20015
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 285,
+      "Description": "ACUTE MYOCARDIAL INFARCTION, EXPIRED W/O CC/MCC",
+      "Chash Pay": 24153.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 286,
+      "Description": "CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W MCC",
+      "Chash Pay": 131174.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 287,
+      "Description": "CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W/O MCC",
+      "Chash Pay": 70077.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 288,
+      "Description": "ACUTE & SUBACUTE ENDOCARDITIS W MCC",
+      "Chash Pay": 132244
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 289,
+      "Description": "ACUTE & SUBACUTE ENDOCARDITIS W CC",
+      "Chash Pay": 84226.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 291,
+      "Description": "HEART FAILURE & SHOCK W MCC OR PERIPHERAL ECMO",
+      "Chash Pay": 84314.42
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 292,
+      "Description": "HEART FAILURE & SHOCK W CC",
+      "Chash Pay": 61544.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 293,
+      "Description": "HEART FAILURE & SHOCK W/O CC/MCC",
+      "Chash Pay": 41451.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 294,
+      "Description": "DEEP VEIN THROMBOPHLEBITIS W CC/MCC",
+      "Chash Pay": 49486.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 296,
+      "Description": "CARDIAC ARREST, UNEXPLAINED W MCC OR PERIPHERAL ECMO",
+      "Chash Pay": 84449.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 297,
+      "Description": "CARDIAC ARREST, UNEXPLAINED W CC",
+      "Chash Pay": 49334.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 299,
+      "Description": "PERIPHERAL VASCULAR DISORDERS W MCC",
+      "Chash Pay": 99326.37
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 300,
+      "Description": "PERIPHERAL VASCULAR DISORDERS W CC",
+      "Chash Pay": 63079.95
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 301,
+      "Description": "PERIPHERAL VASCULAR DISORDERS W/O CC/MCC",
+      "Chash Pay": 54180.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 302,
+      "Description": "ATHEROSCLEROSIS W MCC",
+      "Chash Pay": 44963.89
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 303,
+      "Description": "ATHEROSCLEROSIS W/O MCC",
+      "Chash Pay": 39203.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 304,
+      "Description": "HYPERTENSION W MCC",
+      "Chash Pay": 57548
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 305,
+      "Description": "HYPERTENSION W/O MCC",
+      "Chash Pay": 39793.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 306,
+      "Description": "CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC",
+      "Chash Pay": 74252.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 307,
+      "Description": "CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC",
+      "Chash Pay": 46764.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 308,
+      "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC",
+      "Chash Pay": 85312.53
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 309,
+      "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC",
+      "Chash Pay": 45216.57
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 310,
+      "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC",
+      "Chash Pay": 37066.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 311,
+      "Description": "ANGINA PECTORIS",
+      "Chash Pay": 43079.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 312,
+      "Description": "SYNCOPE & COLLAPSE",
+      "Chash Pay": 50321.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 313,
+      "Description": "CHEST PAIN",
+      "Chash Pay": 35978.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 314,
+      "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC",
+      "Chash Pay": 105554.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 315,
+      "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W CC",
+      "Chash Pay": 62400.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 316,
+      "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 47786.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 326,
+      "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W MCC",
+      "Chash Pay": 165218.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 327,
+      "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W CC",
+      "Chash Pay": 119575.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 328,
+      "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W/O CC/MCC",
+      "Chash Pay": 60228.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 329,
+      "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC",
+      "Chash Pay": 197426.7
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 330,
+      "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W CC",
+      "Chash Pay": 117835.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 331,
+      "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 71821.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 334,
+      "Description": "RECTAL RESECTION W/O CC/MCC",
+      "Chash Pay": 30347.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 335,
+      "Description": "PERITONEAL ADHESIOLYSIS W MCC",
+      "Chash Pay": 155209.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 336,
+      "Description": "PERITONEAL ADHESIOLYSIS W CC",
+      "Chash Pay": 95407.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 337,
+      "Description": "PERITONEAL ADHESIOLYSIS W/O CC/MCC",
+      "Chash Pay": 63999.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 339,
+      "Description": "APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC",
+      "Chash Pay": 78782.49
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 340,
+      "Description": "APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC",
+      "Chash Pay": 42612.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 341,
+      "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC",
+      "Chash Pay": 43501.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 342,
+      "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC",
+      "Chash Pay": 69908.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 343,
+      "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC",
+      "Chash Pay": 39797
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 344,
+      "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W MCC",
+      "Chash Pay": 138625.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 345,
+      "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W CC",
+      "Chash Pay": 78331.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 346,
+      "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 33633.58
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 347,
+      "Description": "ANAL & STOMAL PROCEDURES W MCC",
+      "Chash Pay": 20718.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 348,
+      "Description": "ANAL & STOMAL PROCEDURES W CC",
+      "Chash Pay": 53517.93
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 349,
+      "Description": "ANAL & STOMAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 32044.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 350,
+      "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W MCC",
+      "Chash Pay": 119189.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 351,
+      "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W CC",
+      "Chash Pay": 59252
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 352,
+      "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC",
+      "Chash Pay": 43696.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 353,
+      "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC",
+      "Chash Pay": 102377.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 354,
+      "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC",
+      "Chash Pay": 66409.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 355,
+      "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC",
+      "Chash Pay": 49994.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 356,
+      "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC",
+      "Chash Pay": 246416.97
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 357,
+      "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC",
+      "Chash Pay": 95522.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 358,
+      "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC",
+      "Chash Pay": 58780.81
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 368,
+      "Description": "MAJOR ESOPHAGEAL DISORDERS W MCC",
+      "Chash Pay": 102545.95
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 369,
+      "Description": "MAJOR ESOPHAGEAL DISORDERS W CC",
+      "Chash Pay": 80559.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 371,
+      "Description": "MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC",
+      "Chash Pay": 105688.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 372,
+      "Description": "MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC",
+      "Chash Pay": 66720.7
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 373,
+      "Description": "MAJOR GASTROINTESTIN DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC",
+      "Chash Pay": 45575.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 374,
+      "Description": "DIGESTIVE MALIGNANCY W MCC",
+      "Chash Pay": 121471.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 375,
+      "Description": "DIGESTIVE MALIGNANCY W CC",
+      "Chash Pay": 63130.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 376,
+      "Description": "DIGESTIVE MALIGNANCY W/O CC/MCC",
+      "Chash Pay": 36871.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 377,
+      "Description": "G.I. HEMORRHAGE W MCC",
+      "Chash Pay": 97055.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 378,
+      "Description": "G.I. HEMORRHAGE W CC",
+      "Chash Pay": 56853.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 379,
+      "Description": "G.I. HEMORRHAGE W/O CC/MCC",
+      "Chash Pay": 35098.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 380,
+      "Description": "COMPLICATED PEPTIC ULCER W MCC",
+      "Chash Pay": 85343.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 381,
+      "Description": "COMPLICATED PEPTIC ULCER W CC",
+      "Chash Pay": 48818.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 382,
+      "Description": "COMPLICATED PEPTIC ULCER W/O CC/MCC",
+      "Chash Pay": 36000.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 383,
+      "Description": "UNCOMPLICATED PEPTIC ULCER W MCC",
+      "Chash Pay": 79766.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 384,
+      "Description": "UNCOMPLICATED PEPTIC ULCER W/O MCC",
+      "Chash Pay": 48335.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 385,
+      "Description": "INFLAMMATORY BOWEL DISEASE W MCC",
+      "Chash Pay": 82298.76
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 386,
+      "Description": "INFLAMMATORY BOWEL DISEASE W CC",
+      "Chash Pay": 50191.72
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 387,
+      "Description": "INFLAMMATORY BOWEL DISEASE W/O CC/MCC",
+      "Chash Pay": 46446.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 388,
+      "Description": "G.I. OBSTRUCTION W MCC",
+      "Chash Pay": 96401.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 389,
+      "Description": "G.I. OBSTRUCTION W CC",
+      "Chash Pay": 50584.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 390,
+      "Description": "G.I. OBSTRUCTION W/O CC/MCC",
+      "Chash Pay": 34416.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 391,
+      "Description": "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W MCC",
+      "Chash Pay": 68052.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 392,
+      "Description": "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC",
+      "Chash Pay": 44149.38
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 393,
+      "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC",
+      "Chash Pay": 92688.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 394,
+      "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W CC",
+      "Chash Pay": 49502.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 395,
+      "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 38253.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 405,
+      "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W MCC",
+      "Chash Pay": 194582.16
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 406,
+      "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W CC",
+      "Chash Pay": 116713.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 407,
+      "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W/O CC/MCC",
+      "Chash Pay": 69887.95
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 408,
+      "Description": "BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC",
+      "Chash Pay": 186151.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 409,
+      "Description": "BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC",
+      "Chash Pay": 91118.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 410,
+      "Description": "BILIARY TRACT PROC EXCP ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC",
+      "Chash Pay": 132080.19
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 414,
+      "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC",
+      "Chash Pay": 108798.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 415,
+      "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC",
+      "Chash Pay": 82685.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 416,
+      "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC",
+      "Chash Pay": 70393.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 417,
+      "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC",
+      "Chash Pay": 89576.16
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 418,
+      "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC",
+      "Chash Pay": 69300.97
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 419,
+      "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC",
+      "Chash Pay": 59569.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 420,
+      "Description": "HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC",
+      "Chash Pay": 286473.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 423,
+      "Description": "OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC",
+      "Chash Pay": 226360.95
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 424,
+      "Description": "OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W CC",
+      "Chash Pay": 127404.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 425,
+      "Description": "OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W/O CC/MCC",
+      "Chash Pay": 65408.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 432,
+      "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC",
+      "Chash Pay": 96722.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 433,
+      "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W CC",
+      "Chash Pay": 58432.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 434,
+      "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC",
+      "Chash Pay": 116347.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 435,
+      "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC",
+      "Chash Pay": 81713.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 436,
+      "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC",
+      "Chash Pay": 71991.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 437,
+      "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC",
+      "Chash Pay": 41680.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 438,
+      "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC",
+      "Chash Pay": 75342.93
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 439,
+      "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC",
+      "Chash Pay": 45953.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 440,
+      "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC",
+      "Chash Pay": 31196.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 441,
+      "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W MCC",
+      "Chash Pay": 114830.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 442,
+      "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W CC",
+      "Chash Pay": 60889.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 443,
+      "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W/O CC/MCC",
+      "Chash Pay": 43075.16
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 444,
+      "Description": "DISORDERS OF THE BILIARY TRACT W MCC",
+      "Chash Pay": 99359.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 445,
+      "Description": "DISORDERS OF THE BILIARY TRACT W CC",
+      "Chash Pay": 61685.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 446,
+      "Description": "DISORDERS OF THE BILIARY TRACT W/O CC/MCC",
+      "Chash Pay": 39469.93
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 453,
+      "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC",
+      "Chash Pay": 236370.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 454,
+      "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC",
+      "Chash Pay": 193425.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 455,
+      "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC",
+      "Chash Pay": 177371.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 457,
+      "Description": "SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W CC",
+      "Chash Pay": 205709.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 458,
+      "Description": "SPINL FUS EXC CERV W SPINL CURV/MALIG/INFEC OR EXT FUS W/O CC/MCC",
+      "Chash Pay": 169158.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 459,
+      "Description": "SPINAL FUSION EXCEPT CERVICAL W MCC",
+      "Chash Pay": 230738.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 460,
+      "Description": "SPINAL FUSION EXCEPT CERVICAL W/O MCC",
+      "Chash Pay": 127469.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 462,
+      "Description": "BILATERAL OR MULTIPLE MAJ JOINT PROCS OF LOWER EXTREMITY W/O MCC",
+      "Chash Pay": 147528.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 463,
+      "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W MCC",
+      "Chash Pay": 288434.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 464,
+      "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W CC",
+      "Chash Pay": 162769.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 465,
+      "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS W/O CC/MCC",
+      "Chash Pay": 69501.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 466,
+      "Description": "REVISION OF HIP OR KNEE REPLACEMENT W MCC",
+      "Chash Pay": 161755.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 467,
+      "Description": "REVISION OF HIP OR KNEE REPLACEMENT W CC",
+      "Chash Pay": 120008.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 468,
+      "Description": "REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC",
+      "Chash Pay": 85129.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 469,
+      "Description": "MAJ HIP/KNEE JNT OR TOT ANK RPLCMNT/RATTCHMNT OF LOW XTRMTY W MCC",
+      "Chash Pay": 161520.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 470,
+      "Description": "MAJ HIP/KNEE JOINT RPLCMNT/REATTACHMENT OF LOW EXTREMITY W/O MCC",
+      "Chash Pay": 91519.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 471,
+      "Description": "CERVICAL SPINAL FUSION W MCC",
+      "Chash Pay": 213731.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 472,
+      "Description": "CERVICAL SPINAL FUSION W CC",
+      "Chash Pay": 104484.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 473,
+      "Description": "CERVICAL SPINAL FUSION W/O CC/MCC",
+      "Chash Pay": 68476.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 474,
+      "Description": "AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC",
+      "Chash Pay": 210205.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 475,
+      "Description": "AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC",
+      "Chash Pay": 110895.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 476,
+      "Description": "AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W/O CC/MCC",
+      "Chash Pay": 84626.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 477,
+      "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC",
+      "Chash Pay": 317993.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 478,
+      "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC",
+      "Chash Pay": 178486.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 479,
+      "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC",
+      "Chash Pay": 75987.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 480,
+      "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC",
+      "Chash Pay": 135871.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 481,
+      "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC",
+      "Chash Pay": 102432.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 482,
+      "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC",
+      "Chash Pay": 78722.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 483,
+      "Description": "MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES",
+      "Chash Pay": 117701.75
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 485,
+      "Description": "KNEE PROCEDURES W PDX OF INFECTION W MCC",
+      "Chash Pay": 249096.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 486,
+      "Description": "KNEE PROCEDURES W PDX OF INFECTION W CC",
+      "Chash Pay": 113023.77
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 487,
+      "Description": "KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC",
+      "Chash Pay": 60388.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 488,
+      "Description": "KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC",
+      "Chash Pay": 161295.05
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 489,
+      "Description": "KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC",
+      "Chash Pay": 81723.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 492,
+      "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W MCC",
+      "Chash Pay": 230302.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 493,
+      "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W CC",
+      "Chash Pay": 112607.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 494,
+      "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W/O CC/MCC",
+      "Chash Pay": 82975.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 495,
+      "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC",
+      "Chash Pay": 144734.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 496,
+      "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC",
+      "Chash Pay": 77702.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 497,
+      "Description": "LOCAL EXCISION & REMOVL INT FIX DEVICE EXC HIP & FEMUR W/O CC/MCC",
+      "Chash Pay": 58528.44
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 498,
+      "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC",
+      "Chash Pay": 96708.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 499,
+      "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICE OF HIP & FEMUR W/O CC/MCC",
+      "Chash Pay": 48062.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 500,
+      "Description": "SOFT TISSUE PROCEDURES W MCC",
+      "Chash Pay": 134794.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 501,
+      "Description": "SOFT TISSUE PROCEDURES W CC",
+      "Chash Pay": 95392.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 502,
+      "Description": "SOFT TISSUE PROCEDURES W/O CC/MCC",
+      "Chash Pay": 59642.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 503,
+      "Description": "FOOT PROCEDURES W MCC",
+      "Chash Pay": 97092.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 504,
+      "Description": "FOOT PROCEDURES W CC",
+      "Chash Pay": 120613.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 505,
+      "Description": "FOOT PROCEDURES W/O CC/MCC",
+      "Chash Pay": 73200.89
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 506,
+      "Description": "MAJOR THUMB OR JOINT PROCEDURES",
+      "Chash Pay": 68356.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 507,
+      "Description": "MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W CC/MCC",
+      "Chash Pay": 61816.61
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 508,
+      "Description": "MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W/O CC/MCC",
+      "Chash Pay": 72558.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 510,
+      "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W MCC",
+      "Chash Pay": 144889.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 511,
+      "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W CC",
+      "Chash Pay": 88277.37
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 512,
+      "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W/O CC/MCC",
+      "Chash Pay": 59500.76
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 513,
+      "Description": "HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC",
+      "Chash Pay": 52748.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 514,
+      "Description": "HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC",
+      "Chash Pay": 47984.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 515,
+      "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC",
+      "Chash Pay": 175798.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 516,
+      "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC",
+      "Chash Pay": 94965.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 517,
+      "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC",
+      "Chash Pay": 70927.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 518,
+      "Description": "BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM",
+      "Chash Pay": 112889.38
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 519,
+      "Description": "BACK & NECK PROC EXC SPINAL FUSION W CC",
+      "Chash Pay": 88758.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 520,
+      "Description": "BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC",
+      "Chash Pay": 67975
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 533,
+      "Description": "FRACTURES OF FEMUR W MCC",
+      "Chash Pay": 60621.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 534,
+      "Description": "FRACTURES OF FEMUR W/O MCC",
+      "Chash Pay": 64571.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 535,
+      "Description": "FRACTURES OF HIP & PELVIS W MCC",
+      "Chash Pay": 75626.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 536,
+      "Description": "FRACTURES OF HIP & PELVIS W/O MCC",
+      "Chash Pay": 61653.38
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 537,
+      "Description": "SPRAINS, STRAINS, & DISLOCATIONS OF HIP, PELVIS & THIGH W CC/MCC",
+      "Chash Pay": 78350.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 538,
+      "Description": "SPRAINS, STRAINS, & DISLOCATION OF HIP, PELVIS & THIGH W/O CC/MCC",
+      "Chash Pay": 77361.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 539,
+      "Description": "OSTEOMYELITIS W MCC",
+      "Chash Pay": 128126.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 540,
+      "Description": "OSTEOMYELITIS W CC",
+      "Chash Pay": 89044.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 541,
+      "Description": "OSTEOMYELITIS W/O CC/MCC",
+      "Chash Pay": 39222.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 542,
+      "Description": "PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC",
+      "Chash Pay": 120432.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 543,
+      "Description": "PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC",
+      "Chash Pay": 63134.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 544,
+      "Description": "PATHOLOGIC FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC",
+      "Chash Pay": 47658.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 545,
+      "Description": "CONNECTIVE TISSUE DISORDERS W MCC",
+      "Chash Pay": 115628.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 546,
+      "Description": "CONNECTIVE TISSUE DISORDERS W CC",
+      "Chash Pay": 70784.19
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 547,
+      "Description": "CONNECTIVE TISSUE DISORDERS W/O CC/MCC",
+      "Chash Pay": 50512.28
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 549,
+      "Description": "SEPTIC ARTHRITIS W CC",
+      "Chash Pay": 105504.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 551,
+      "Description": "MEDICAL BACK PROBLEMS W MCC",
+      "Chash Pay": 91796.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 552,
+      "Description": "MEDICAL BACK PROBLEMS W/O MCC",
+      "Chash Pay": 58670.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 553,
+      "Description": "BONE DISEASES & ARTHROPATHIES W MCC",
+      "Chash Pay": 59462.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 554,
+      "Description": "BONE DISEASES & ARTHROPATHIES W/O MCC",
+      "Chash Pay": 63870.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 555,
+      "Description": "SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC",
+      "Chash Pay": 59762.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 556,
+      "Description": "SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC",
+      "Chash Pay": 79752.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 557,
+      "Description": "TENDONITIS, MYOSITIS & BURSITIS W MCC",
+      "Chash Pay": 56146.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 558,
+      "Description": "TENDONITIS, MYOSITIS & BURSITIS W/O MCC",
+      "Chash Pay": 51892.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 559,
+      "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC",
+      "Chash Pay": 104682.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 560,
+      "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC",
+      "Chash Pay": 100803.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 561,
+      "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC",
+      "Chash Pay": 97642.03
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 562,
+      "Description": "FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W MCC",
+      "Chash Pay": 61919.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 563,
+      "Description": "FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W/O MCC",
+      "Chash Pay": 48090.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 564,
+      "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC",
+      "Chash Pay": 63179.05
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 565,
+      "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC",
+      "Chash Pay": 75112.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 566,
+      "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAG W/O CC/MCC",
+      "Chash Pay": 37464.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 570,
+      "Description": "SKIN DEBRIDEMENT W MCC",
+      "Chash Pay": 67511.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 571,
+      "Description": "SKIN DEBRIDEMENT W CC",
+      "Chash Pay": 79054.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 572,
+      "Description": "SKIN DEBRIDEMENT W/O CC/MCC",
+      "Chash Pay": 53177.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 573,
+      "Description": "SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC",
+      "Chash Pay": 119170.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 574,
+      "Description": "SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC",
+      "Chash Pay": 158435.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 575,
+      "Description": "SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W/O CC/MCC",
+      "Chash Pay": 57940.91
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 576,
+      "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC",
+      "Chash Pay": 191794.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 577,
+      "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC",
+      "Chash Pay": 87080.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 578,
+      "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC",
+      "Chash Pay": 68198.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 579,
+      "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W MCC",
+      "Chash Pay": 76395.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 580,
+      "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W CC",
+      "Chash Pay": 77834.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 581,
+      "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W/O CC/MCC",
+      "Chash Pay": 66727.79
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 582,
+      "Description": "MASTECTOMY FOR MALIGNANCY W CC/MCC",
+      "Chash Pay": 61436.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 583,
+      "Description": "MASTECTOMY FOR MALIGNANCY W/O CC/MCC",
+      "Chash Pay": 61417.37
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 584,
+      "Description": "BREAST BIOPSY, LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC",
+      "Chash Pay": 61749.77
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 585,
+      "Description": "BREAST BIOPSY, LOCAL EXCISION & OTH BREAST PROCEDURES W/O CC/MCC",
+      "Chash Pay": 76199.18
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 592,
+      "Description": "SKIN ULCERS W MCC",
+      "Chash Pay": 62539.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 593,
+      "Description": "SKIN ULCERS W CC",
+      "Chash Pay": 39148.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 594,
+      "Description": "SKIN ULCERS W/O CC/MCC",
+      "Chash Pay": 33530.05
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 596,
+      "Description": "MAJOR SKIN DISORDERS W/O MCC",
+      "Chash Pay": 49122.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 597,
+      "Description": "MALIGNANT BREAST DISORDERS W MCC",
+      "Chash Pay": 104616.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 598,
+      "Description": "MALIGNANT BREAST DISORDERS W CC",
+      "Chash Pay": 34360.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 600,
+      "Description": "NON-MALIGNANT BREAST DISORDERS W CC/MCC",
+      "Chash Pay": 30983.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 601,
+      "Description": "NON-MALIGNANT BREAST DISORDERS W/O CC/MCC",
+      "Chash Pay": 25210.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 602,
+      "Description": "CELLULITIS W MCC",
+      "Chash Pay": 53400.02
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 603,
+      "Description": "CELLULITIS W/O MCC",
+      "Chash Pay": 44218.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 604,
+      "Description": "TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W MCC",
+      "Chash Pay": 87007.42
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 605,
+      "Description": "TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W/O MCC",
+      "Chash Pay": 42281.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 606,
+      "Description": "MINOR SKIN DISORDERS W MCC",
+      "Chash Pay": 70257.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 607,
+      "Description": "MINOR SKIN DISORDERS W/O MCC",
+      "Chash Pay": 40798.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 614,
+      "Description": "ADRENAL & PITUITARY PROCEDURES W CC/MCC",
+      "Chash Pay": 143224.23
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 615,
+      "Description": "ADRENAL & PITUITARY PROCEDURES W/O CC/MCC",
+      "Chash Pay": 56059.7
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 616,
+      "Description": "AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W MCC",
+      "Chash Pay": 134103.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 617,
+      "Description": "AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W CC",
+      "Chash Pay": 93748.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 618,
+      "Description": "AMPUTAT OF LWR LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W/O CC/MCC",
+      "Chash Pay": 60650.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 619,
+      "Description": "O.R. PROCEDURES FOR OBESITY W MCC",
+      "Chash Pay": 78179.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 620,
+      "Description": "O.R. PROCEDURES FOR OBESITY W CC",
+      "Chash Pay": 54580.82
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 621,
+      "Description": "O.R. PROCEDURES FOR OBESITY W/O CC/MCC",
+      "Chash Pay": 45647.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 622,
+      "Description": "SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W MCC",
+      "Chash Pay": 79991.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 623,
+      "Description": "SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W CC",
+      "Chash Pay": 84509.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 624,
+      "Description": "SKIN GRFT & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W/O CC/MCC",
+      "Chash Pay": 59631.49
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 625,
+      "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W MCC",
+      "Chash Pay": 134059.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 626,
+      "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W CC",
+      "Chash Pay": 56159.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 627,
+      "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 44534.73
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 628,
+      "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W MCC",
+      "Chash Pay": 219782.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 629,
+      "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W CC",
+      "Chash Pay": 105310.62
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 630,
+      "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W/O CC/MCC",
+      "Chash Pay": 40844.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 637,
+      "Description": "DIABETES W MCC",
+      "Chash Pay": 82206.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 638,
+      "Description": "DIABETES W CC",
+      "Chash Pay": 50436.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 639,
+      "Description": "DIABETES W/O CC/MCC",
+      "Chash Pay": 39236.38
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 640,
+      "Description": "MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC",
+      "Chash Pay": 73667.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 641,
+      "Description": "MISC DISORDERS OF NUTRITION,METABOLISM,FLUID/ELECTROLYTES W/O MCC",
+      "Chash Pay": 45816.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 642,
+      "Description": "INBORN AND OTHER DISORDERS OF METABOLISM",
+      "Chash Pay": 78019.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 643,
+      "Description": "ENDOCRINE DISORDERS W MCC",
+      "Chash Pay": 83373.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 644,
+      "Description": "ENDOCRINE DISORDERS W CC",
+      "Chash Pay": 92093.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 645,
+      "Description": "ENDOCRINE DISORDERS W/O CC/MCC",
+      "Chash Pay": 40899.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 654,
+      "Description": "MAJOR BLADDER PROCEDURES W CC",
+      "Chash Pay": 138243.53
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 656,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC",
+      "Chash Pay": 141865.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 657,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC",
+      "Chash Pay": 59983.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 658,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC",
+      "Chash Pay": 54505.57
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 659,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC",
+      "Chash Pay": 181430.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 660,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC",
+      "Chash Pay": 44098.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 661,
+      "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC",
+      "Chash Pay": 40237.52
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 663,
+      "Description": "MINOR BLADDER PROCEDURES W CC",
+      "Chash Pay": 52304.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 664,
+      "Description": "MINOR BLADDER PROCEDURES W/O CC/MCC",
+      "Chash Pay": 30685.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 668,
+      "Description": "TRANSURETHRAL PROCEDURES W MCC",
+      "Chash Pay": 136594.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 669,
+      "Description": "TRANSURETHRAL PROCEDURES W CC",
+      "Chash Pay": 57945.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 670,
+      "Description": "TRANSURETHRAL PROCEDURES W/O CC/MCC",
+      "Chash Pay": 27714.14
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 673,
+      "Description": "OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC",
+      "Chash Pay": 191708.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 674,
+      "Description": "OTHER KIDNEY & URINARY TRACT PROCEDURES W CC",
+      "Chash Pay": 92625.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 675,
+      "Description": "OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC",
+      "Chash Pay": 52821.31
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 682,
+      "Description": "RENAL FAILURE W MCC",
+      "Chash Pay": 98973.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 683,
+      "Description": "RENAL FAILURE W CC",
+      "Chash Pay": 53765.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 684,
+      "Description": "RENAL FAILURE W/O CC/MCC",
+      "Chash Pay": 31415.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 686,
+      "Description": "KIDNEY & URINARY TRACT NEOPLASMS W MCC",
+      "Chash Pay": 105673.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 687,
+      "Description": "KIDNEY & URINARY TRACT NEOPLASMS W CC",
+      "Chash Pay": 49452.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 689,
+      "Description": "KIDNEY & URINARY TRACT INFECTIONS W MCC",
+      "Chash Pay": 67781.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 690,
+      "Description": "KIDNEY & URINARY TRACT INFECTIONS W/O MCC",
+      "Chash Pay": 48393.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 693,
+      "Description": "URINARY STONES W/O ESW LITHOTRIPSY W MCC",
+      "Chash Pay": 79620.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 694,
+      "Description": "URINARY STONES W/O ESW LITHOTRIPSY W/O MCC",
+      "Chash Pay": 43476.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 695,
+      "Description": "KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC",
+      "Chash Pay": 57787.18
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 696,
+      "Description": "KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC",
+      "Chash Pay": 64388.75
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 698,
+      "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC",
+      "Chash Pay": 91774.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 699,
+      "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC",
+      "Chash Pay": 55924.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 700,
+      "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 44460.1
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 707,
+      "Description": "MAJOR MALE PELVIC PROCEDURES W CC/MCC",
+      "Chash Pay": 49214.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 708,
+      "Description": "MAJOR MALE PELVIC PROCEDURES W/O CC/MCC",
+      "Chash Pay": 46300.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 709,
+      "Description": "PENIS PROCEDURES W CC/MCC",
+      "Chash Pay": 62401.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 710,
+      "Description": "PENIS PROCEDURES W/O CC/MCC",
+      "Chash Pay": 51344.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 711,
+      "Description": "TESTES PROCEDURES W CC/MCC",
+      "Chash Pay": 97200.96
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 713,
+      "Description": "TRANSURETHRAL PROSTATECTOMY W CC/MCC",
+      "Chash Pay": 82767.44
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 714,
+      "Description": "TRANSURETHRAL PROSTATECTOMY W/O CC/MCC",
+      "Chash Pay": 37490.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 716,
+      "Description": "OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIG W/O CC/MCC",
+      "Chash Pay": 52099.55
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 717,
+      "Description": "OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC",
+      "Chash Pay": 86932.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 722,
+      "Description": "MALIGNANCY, MALE REPRODUCTIVE SYSTEM W MCC",
+      "Chash Pay": 127978.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 723,
+      "Description": "MALIGNANCY, MALE REPRODUCTIVE SYSTEM W CC",
+      "Chash Pay": 111602.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 725,
+      "Description": "BENIGN PROSTATIC HYPERTROPHY W MCC",
+      "Chash Pay": 68344.75
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 726,
+      "Description": "BENIGN PROSTATIC HYPERTROPHY W/O MCC",
+      "Chash Pay": 50626.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 727,
+      "Description": "INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC",
+      "Chash Pay": 49623.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 728,
+      "Description": "INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC",
+      "Chash Pay": 44627.35
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 729,
+      "Description": "OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC",
+      "Chash Pay": 54440.19
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 730,
+      "Description": "OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 20046.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 734,
+      "Description": "PELVIC EVISCERATION, RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC",
+      "Chash Pay": 35615.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 736,
+      "Description": "UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC",
+      "Chash Pay": 173955.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 737,
+      "Description": "UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC",
+      "Chash Pay": 92511.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 738,
+      "Description": "UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIG W/O CC/MCC",
+      "Chash Pay": 68423.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 739,
+      "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC",
+      "Chash Pay": 172079.27
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 740,
+      "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC",
+      "Chash Pay": 65384.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 741,
+      "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC",
+      "Chash Pay": 44408.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 742,
+      "Description": "UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC",
+      "Chash Pay": 57764.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 743,
+      "Description": "UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC",
+      "Chash Pay": 41708.11
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 744,
+      "Description": "D&C, CONIZATION, LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC",
+      "Chash Pay": 110411.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 745,
+      "Description": "D&C, CONIZATION, LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC",
+      "Chash Pay": 30885.28
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 746,
+      "Description": "VAGINA, CERVIX & VULVA PROCEDURES W CC/MCC",
+      "Chash Pay": 420458.63
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 747,
+      "Description": "VAGINA, CERVIX & VULVA PROCEDURES W/O CC/MCC",
+      "Chash Pay": 44830.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 748,
+      "Description": "FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES",
+      "Chash Pay": 55656.16
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 749,
+      "Description": "OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC",
+      "Chash Pay": 52080.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 750,
+      "Description": "OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC",
+      "Chash Pay": 65162.21
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 754,
+      "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W MCC",
+      "Chash Pay": 128354.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 755,
+      "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W CC",
+      "Chash Pay": 50599.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 756,
+      "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC",
+      "Chash Pay": 39748.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 758,
+      "Description": "INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W CC",
+      "Chash Pay": 39425.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 759,
+      "Description": "INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC",
+      "Chash Pay": 30176.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 760,
+      "Description": "MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC",
+      "Chash Pay": 41439.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 761,
+      "Description": "MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC",
+      "Chash Pay": 31128.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 768,
+      "Description": "VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C",
+      "Chash Pay": 43797.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 769,
+      "Description": "POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE",
+      "Chash Pay": 86047.43
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 770,
+      "Description": "ABORTION W D&C, ASPIRATION CURETTAGE OR HYSTEROTOMY",
+      "Chash Pay": 33766.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 776,
+      "Description": "POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE",
+      "Chash Pay": 37350.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 779,
+      "Description": "ABORTION W/O D&C",
+      "Chash Pay": 44217.61
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 784,
+      "Description": "CESAREAN SECTION W STERILIZATION W CC",
+      "Chash Pay": 50890.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 785,
+      "Description": "CESAREAN SECTION W STERILIZATION W/O CC/MCC",
+      "Chash Pay": 41199.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 786,
+      "Description": "CESAREAN SECTION W/O STERILIZATION W MCC",
+      "Chash Pay": 83528.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 787,
+      "Description": "CESAREAN SECTION W/O STERILIZATION W CC",
+      "Chash Pay": 65976.19
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 788,
+      "Description": "CESAREAN SECTION W/O STERILIZATION W/O CC/MCC",
+      "Chash Pay": 57119.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 789,
+      "Description": "NEONATES, DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY",
+      "Chash Pay": 220473.86
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 790,
+      "Description": "EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME, NEONATE",
+      "Chash Pay": 708387.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 791,
+      "Description": "PREMATURITY W MAJOR PROBLEMS",
+      "Chash Pay": 187938.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 792,
+      "Description": "PREMATURITY W/O MAJOR PROBLEMS",
+      "Chash Pay": 80858.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 793,
+      "Description": "FULL TERM NEONATE W MAJOR PROBLEMS",
+      "Chash Pay": 70149.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 794,
+      "Description": "NEONATE W OTHER SIGNIFICANT PROBLEMS",
+      "Chash Pay": 19745.77
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 795,
+      "Description": "NORMAL NEWBORN",
+      "Chash Pay": 14908.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 801,
+      "Description": "SPLENECTOMY W/O CC/MCC",
+      "Chash Pay": 50569.79
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 802,
+      "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC",
+      "Chash Pay": 66926.68
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 803,
+      "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC",
+      "Chash Pay": 40763.23
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 804,
+      "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W/O CC/MCC",
+      "Chash Pay": 44566.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 805,
+      "Description": "VAGINAL DELIVERY W/O STERILIZATION/D&C W MCC",
+      "Chash Pay": 44740.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 806,
+      "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC",
+      "Chash Pay": 40673.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 807,
+      "Description": "VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC",
+      "Chash Pay": 35170.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 808,
+      "Description": "MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC",
+      "Chash Pay": 84011.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 809,
+      "Description": "MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC",
+      "Chash Pay": 53026.82
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 810,
+      "Description": "MAJ HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC",
+      "Chash Pay": 47891.32
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 811,
+      "Description": "RED BLOOD CELL DISORDERS W MCC",
+      "Chash Pay": 81896.83
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 812,
+      "Description": "RED BLOOD CELL DISORDERS W/O MCC",
+      "Chash Pay": 40402.89
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 813,
+      "Description": "COAGULATION DISORDERS",
+      "Chash Pay": 74387.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 814,
+      "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC",
+      "Chash Pay": 131217.53
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 815,
+      "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC",
+      "Chash Pay": 56042.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 816,
+      "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC",
+      "Chash Pay": 52353.84
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 817,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W MCC",
+      "Chash Pay": 33435.58
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 818,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W CC",
+      "Chash Pay": 26601.7
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 819,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W/O CC/MCC",
+      "Chash Pay": 32839
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 820,
+      "Description": "LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC",
+      "Chash Pay": 515890.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 821,
+      "Description": "LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC",
+      "Chash Pay": 80198.47
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 822,
+      "Description": "LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W/O CC/MCC",
+      "Chash Pay": 60943.6
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 823,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC",
+      "Chash Pay": 202871.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 824,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC",
+      "Chash Pay": 66868.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 825,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC",
+      "Chash Pay": 30742.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 826,
+      "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC",
+      "Chash Pay": 291403.7
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 827,
+      "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC",
+      "Chash Pay": 139268.12
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 828,
+      "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ OR PROC W/O CC/MCC",
+      "Chash Pay": 60562.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 829,
+      "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER OR PROC W CC/MCC",
+      "Chash Pay": 116529.08
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 830,
+      "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTH OR PROC W/O CC/MCC",
+      "Chash Pay": 301804.69
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 831,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W MCC",
+      "Chash Pay": 64590.64
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 832,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W CC",
+      "Chash Pay": 30725.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 833,
+      "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W/O CC/MCC",
+      "Chash Pay": 25155.65
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 835,
+      "Description": "ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC",
+      "Chash Pay": 49206.22
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 836,
+      "Description": "ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC",
+      "Chash Pay": 30453.34
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 840,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W MCC",
+      "Chash Pay": 112761.82
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 841,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W CC",
+      "Chash Pay": 89673.53
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 842,
+      "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC",
+      "Chash Pay": 26131.39
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 843,
+      "Description": "OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC",
+      "Chash Pay": 116809.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 844,
+      "Description": "OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC",
+      "Chash Pay": 80148.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 846,
+      "Description": "CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC",
+      "Chash Pay": 63083.13
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 847,
+      "Description": "CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC",
+      "Chash Pay": 53092.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 848,
+      "Description": "CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC",
+      "Chash Pay": 74427.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 849,
+      "Description": "RADIOTHERAPY",
+      "Chash Pay": 114948.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 853,
+      "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC",
+      "Chash Pay": 266083.79
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 854,
+      "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC",
+      "Chash Pay": 116675.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 855,
+      "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC",
+      "Chash Pay": 77153.85
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 856,
+      "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC",
+      "Chash Pay": 187251.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 857,
+      "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC",
+      "Chash Pay": 70636.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 858,
+      "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC",
+      "Chash Pay": 53604.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 862,
+      "Description": "POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC",
+      "Chash Pay": 106404.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 863,
+      "Description": "POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC",
+      "Chash Pay": 63936.48
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 864,
+      "Description": "FEVER AND INFLAMMATORY CONDITIONS",
+      "Chash Pay": 45011.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 865,
+      "Description": "VIRAL ILLNESS W MCC",
+      "Chash Pay": 81456.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 866,
+      "Description": "VIRAL ILLNESS W/O MCC",
+      "Chash Pay": 48650.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 867,
+      "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC",
+      "Chash Pay": 107374.98
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 868,
+      "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC",
+      "Chash Pay": 37039.07
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 869,
+      "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC",
+      "Chash Pay": 56499.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 870,
+      "Description": "SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS OR PERIPHERAL ECMO",
+      "Chash Pay": 340269.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 871,
+      "Description": "SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC",
+      "Chash Pay": 97032.87
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 872,
+      "Description": "SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC",
+      "Chash Pay": 55432.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 876,
+      "Description": "O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS",
+      "Chash Pay": 137993.55
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 880,
+      "Description": "ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION",
+      "Chash Pay": 34441.79
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 881,
+      "Description": "DEPRESSIVE NEUROSES",
+      "Chash Pay": 34136.45
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 882,
+      "Description": "NEUROSES EXCEPT DEPRESSIVE",
+      "Chash Pay": 36588.59
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 883,
+      "Description": "DISORDERS OF PERSONALITY & IMPULSE CONTROL",
+      "Chash Pay": 47986.51
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 884,
+      "Description": "ORGANIC DISTURBANCES & MENTAL RETARDATION",
+      "Chash Pay": 122954.49
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 885,
+      "Description": "PSYCHOSES",
+      "Chash Pay": 86115.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 886,
+      "Description": "BEHAVIORAL & DEVELOPMENTAL DISORDERS",
+      "Chash Pay": 81644.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 887,
+      "Description": "OTHER MENTAL DISORDER DIAGNOSES",
+      "Chash Pay": 17799
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 894,
+      "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE, LEFT AMA",
+      "Chash Pay": 22456.72
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 895,
+      "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE W REHABILITATION THERAPY",
+      "Chash Pay": 59825.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 896,
+      "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC",
+      "Chash Pay": 68614.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 897,
+      "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHAB THERAPY W/O MCC",
+      "Chash Pay": 26895.92
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 901,
+      "Description": "WOUND DEBRIDEMENTS FOR INJURIES W MCC",
+      "Chash Pay": 507726.94
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 902,
+      "Description": "WOUND DEBRIDEMENTS FOR INJURIES W CC",
+      "Chash Pay": 73367.4
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 903,
+      "Description": "WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC",
+      "Chash Pay": 72999.72
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 904,
+      "Description": "SKIN GRAFTS FOR INJURIES W CC/MCC",
+      "Chash Pay": 140770.36
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 905,
+      "Description": "SKIN GRAFTS FOR INJURIES W/O CC/MCC",
+      "Chash Pay": 89908.57
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 906,
+      "Description": "HAND PROCEDURES FOR INJURIES",
+      "Chash Pay": 122243.46
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 907,
+      "Description": "OTHER O.R. PROCEDURES FOR INJURIES W MCC",
+      "Chash Pay": 177083.88
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 908,
+      "Description": "OTHER O.R. PROCEDURES FOR INJURIES W CC",
+      "Chash Pay": 100964.28
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 909,
+      "Description": "OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC",
+      "Chash Pay": 54714.56
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 913,
+      "Description": "TRAUMATIC INJURY W MCC",
+      "Chash Pay": 107109.18
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 914,
+      "Description": "TRAUMATIC INJURY W/O MCC",
+      "Chash Pay": 82377.09
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 915,
+      "Description": "ALLERGIC REACTIONS W MCC",
+      "Chash Pay": 77964.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 916,
+      "Description": "ALLERGIC REACTIONS W/O MCC",
+      "Chash Pay": 38817.26
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 917,
+      "Description": "POISONING & TOXIC EFFECTS OF DRUGS W MCC",
+      "Chash Pay": 88584.77
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 918,
+      "Description": "POISONING & TOXIC EFFECTS OF DRUGS W/O MCC",
+      "Chash Pay": 40888.71
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 919,
+      "Description": "COMPLICATIONS OF TREATMENT W MCC",
+      "Chash Pay": 85713.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 920,
+      "Description": "COMPLICATIONS OF TREATMENT W CC",
+      "Chash Pay": 64074.3
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 921,
+      "Description": "COMPLICATIONS OF TREATMENT W/O CC/MCC",
+      "Chash Pay": 49298.74
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 922,
+      "Description": "OTHER INJURY, POISONING & TOXIC EFFECT DIAG W MCC",
+      "Chash Pay": 85151.41
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 923,
+      "Description": "OTHER INJURY, POISONING & TOXIC EFFECT DIAG W/O MCC",
+      "Chash Pay": 47147.01
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 935,
+      "Description": "NON-EXTENSIVE BURNS",
+      "Chash Pay": 45304.9
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 939,
+      "Description": "O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC",
+      "Chash Pay": 119722.97
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 941,
+      "Description": "O.R. PROC W DIAGNOSES OF OTH CONTACT W HEALTH SERVICES W/O CC/MCC",
+      "Chash Pay": 49466
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 945,
+      "Description": "REHABILITATION W CC/MCC",
+      "Chash Pay": 99957.99
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 946,
+      "Description": "REHABILITATION W/O CC/MCC",
+      "Chash Pay": 82450.29
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 947,
+      "Description": "SIGNS & SYMPTOMS W MCC",
+      "Chash Pay": 72284.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 948,
+      "Description": "SIGNS & SYMPTOMS W/O MCC",
+      "Chash Pay": 44895.81
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 949,
+      "Description": "AFTERCARE W CC/MCC",
+      "Chash Pay": 88832.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 950,
+      "Description": "AFTERCARE W/O CC/MCC",
+      "Chash Pay": 93633.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 951,
+      "Description": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Chash Pay": 31803.93
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 955,
+      "Description": "CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA",
+      "Chash Pay": 185464.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 956,
+      "Description": "LIMB REATTACHMENT, HIP & FEMUR PROC FOR MULTIPLE SIG TRAUMA",
+      "Chash Pay": 123131.25
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 957,
+      "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC",
+      "Chash Pay": 488900.33
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 958,
+      "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC",
+      "Chash Pay": 137224.78
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 959,
+      "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC",
+      "Chash Pay": 53634.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 963,
+      "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC",
+      "Chash Pay": 56153.8
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 964,
+      "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W CC",
+      "Chash Pay": 83799.66
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 965,
+      "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC",
+      "Chash Pay": 52353.67
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 969,
+      "Description": "HIV W EXTENSIVE O.R. PROCEDURE W MCC",
+      "Chash Pay": 214571.57
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 974,
+      "Description": "HIV W MAJOR RELATED CONDITION W MCC",
+      "Chash Pay": 113978.82
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 975,
+      "Description": "HIV W MAJOR RELATED CONDITION W CC",
+      "Chash Pay": 57001.04
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 976,
+      "Description": "HIV W MAJOR RELATED CONDITION W/O CC/MCC",
+      "Chash Pay": 44569.06
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 977,
+      "Description": "HIV W OR W/O OTHER RELATED CONDITION",
+      "Chash Pay": 69885.17
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 981,
+      "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC",
+      "Chash Pay": 260992.24
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 982,
+      "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC",
+      "Chash Pay": 100930.2
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 983,
+      "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAG W/O CC/MCC",
+      "Chash Pay": 65346.75
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 987,
+      "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC",
+      "Chash Pay": 249174.5
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 988,
+      "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC",
+      "Chash Pay": 99417.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 989,
+      "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAG W/O CC/MCC",
+      "Chash Pay": 78554.54
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 998,
+      "Description": "PRINCIPAL DIAGNOSIS INVALID AS DISCHARGE DIAGNOSIS",
+      "Chash Pay": 12315.15
+    },
+    {
+      "name_hospital": "Mount Sinai Morningside",
+      "Code Type": 999,
+      "Description": "UNGROUPABLE",
+      "Chash Pay": 140541.61
+    }
+  ]
+}
