@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-const API_URL = 'https://your-render-backend.onrender.com';
+const API_URL = 'https://medifare.onrender.com';
 
 function Search() {
   const [hospitalInput, setHospitalInput] = useState('');
