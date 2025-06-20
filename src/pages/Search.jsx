@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+const API_URL = 'https://your-render-backend.onrender.com';
 
 function Search() {
   const [hospitalInput, setHospitalInput] = useState('');
@@ -8,6 +9,7 @@ function Search() {
   const [error, setError] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [matchedLabel, setMatchedLabel] = useState('');
+
 
   const RESULTS_PER_PAGE = 10;
 
@@ -24,9 +26,7 @@ function Search() {
       if (locationInput) query.append('location', locationInput);
       if (serviceInput) query.append('service', serviceInput);
 
-      const response = await fetch(`https://medifare.onrender.com/api/search?${query}`);
-
-      
+      const response = await fetch(`${API_URL}/api/search?${query}`);
       const data = await response.json();
 
       if (response.ok) {
