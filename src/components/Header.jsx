@@ -5,7 +5,7 @@ function Header() {
     <header className="new-header">
       <div className="logo-center">
         <Link to="/">
-          <img src="/medifare/logo.png" alt="Logo" className="logo-icon" />
+          <img src="logo.png" alt="Logo" className="logo-icon" />
         </Link>
       </div>
       <nav>
