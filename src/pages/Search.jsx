@@ -68,7 +68,7 @@ function Search() {
       <h1>Discover the cost of your care.</h1>
       <p>
         Ever wonder why you were charged $245 for a 30-second lab test?
-        We are launching a search service to help you learn the market-rate of healthcare!
+        Medifare is launching a search service to help you learn the market-rate of healthcare!
         Because health is wealth—it shouldn’t break the bank.
       </p>
 
@@ -87,7 +87,7 @@ function Search() {
         />
         <input
           type="text"
-          placeholder="Search Service (e.g., Aldosterone)"
+          placeholder="Search Service"
           value={serviceInput}
           onChange={(e) => setServiceInput(e.target.value)}
         />
