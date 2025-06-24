@@ -6,6 +6,7 @@ import Fuse from 'fuse.js';
 import { fileURLToPath } from 'url';
 
 const app = express();
+const PORT = process.env.PORT || 3001;
 app.use(cors());
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -102,25 +103,25 @@ app.get('/api/search', async (req, res) => {
 });
 
 
-
+// Serve hospital list from Hospital.json
 app.get('/api/hospitals', (req, res) => {
-    fs.readFile(path.join(__dirname, 'data', 'Hospital.json'), 'utf8', (err, data) => {
+    const filePath = path.join(__dirname, 'data', 'Hospital.json');
+    fs.readFile(filePath, 'utf8', (err, data) => {
       if (err) {
-        console.error('Error reading hospital data:', err);
-        return res.status(500).json({ error: 'Failed to read hospital data.' });
-      }
-      try {
-        const parsed = JSON.parse(data);
-        res.json(parsed);
-      } catch (e) {
-        res.status(500).json({ error: 'Malformed JSON' });
+        console.error('Error reading Hospital.json:', err);
+        res.status(500).json({ error: 'Failed to read data' });
+      } else {
+        try {
+          const jsonData = JSON.parse(data);
+          res.json(jsonData);
+        } catch (parseErr) {
+          console.error('Error parsing Hospital.json:', parseErr);
+          res.status(500).json({ error: 'Invalid JSON format' });
+        }
       }
     });
   });
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
-});
-
-
+  
+  app.listen(PORT, () => {
+    console.log(`Server listening on port ${PORT}`);
+  });
