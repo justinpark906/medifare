@@ -6,7 +6,6 @@ import Fuse from 'fuse.js';
 import { fileURLToPath } from 'url';
 
 const app = express();
-const PORT = process.env.PORT || 3001;
 app.use(cors());
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -103,6 +102,7 @@ app.get('/api/search', async (req, res) => {
 });
 
 
+
 // Serve hospital list from Hospital.json
 app.get('/api/hospitals', (req, res) => {
     const filePath = path.join(__dirname, 'data', 'Hospital.json');
@@ -122,6 +122,10 @@ app.get('/api/hospitals', (req, res) => {
     });
   });
   
-  app.listen(PORT, () => {
-    console.log(`Server listening on port ${PORT}`);
-  });
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}`);
+});
+
+
