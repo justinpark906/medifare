@@ -101,7 +101,26 @@ app.get('/api/search', async (req, res) => {
   }
 });
 
-const PORT = 3000;
+
+
+app.get('/api/hospitals', (req, res) => {
+    fs.readFile(path.join(__dirname, 'data', 'Hospital.json'), 'utf8', (err, data) => {
+      if (err) {
+        console.error('Error reading hospital data:', err);
+        return res.status(500).json({ error: 'Failed to read hospital data.' });
+      }
+      try {
+        const parsed = JSON.parse(data);
+        res.json(parsed);
+      } catch (e) {
+        res.status(500).json({ error: 'Malformed JSON' });
+      }
+    });
+  });
+
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
+
+
